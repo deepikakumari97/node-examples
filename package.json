@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/deepikakumari97/node-examples/issues"
   },
-  "homepage": "https://github.com/deepikakumari97/node-examples#readme"
+  "homepage": "https://github.com/deepikakumari97/node-examples#readme",
+  "dependencies": {
+    "eslint": "^4.13.1"
+  }
 }
